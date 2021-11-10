@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function ProjectView() {
+export default function Resume() {
   return <div></div>;
 }
