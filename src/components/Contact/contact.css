@@ -1,0 +1,11 @@
+.contact-url {
+  text-decoration: none;
+  color: black;
+}
+
+.logo-img {
+  border-radius: 13px;
+  height: 100px;
+  display: inline;
+  margin-bottom: 13px;
+}

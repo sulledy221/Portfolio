@@ -1,0 +1,13 @@
+.div-header {
+  background-color: midnightblue;
+  list-style-type: none;
+  height: 40px;
+}
+
+.li-header {
+  display: inline-block;
+  margin-left: 34px;
+  color: grey;
+  margin-top: 5px;
+  font-size: 25px;
+}
