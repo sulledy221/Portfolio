@@ -4,18 +4,18 @@ import "./header.css";
 export default function Header() {
   return (
     <div className="div-header">
-      <a href="/" className="li-header">
-        Home
-      </a>
-      <a href="/about" className="li-header">
-        About
-      </a>
-      <a href="/portfolio" className="li-header">
-        Projects
-      </a>
-      <a href="/contact" className="li-header">
-        Contact
-      </a>
+      <li className="li-header">
+        <a href="/">Home</a>
+      </li>
+      <li className="li-header">
+        <a href="/about">About</a>
+      </li>
+      <li className="li-header">
+        <a href="/portfolio">Projects</a>
+      </li>
+      <li className="li-header">
+        <a href="/contact">Contact</a>
+      </li>
     </div>
   );
 }

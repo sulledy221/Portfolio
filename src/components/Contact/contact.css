@@ -1,11 +1,15 @@
 .contact-url {
   text-decoration: none;
   color: black;
+  display: inline;
 }
 
 .logo-img {
   border-radius: 13px;
-  height: 100px;
+  height: 50px;
   display: inline;
-  margin-bottom: 13px;
+  margin-bottom: 5px;
+}
+
+.img-label {
 }
